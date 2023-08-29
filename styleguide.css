@@ -1,0 +1,38 @@
+:root {
+    --body-text-14-font-family: "WorkSans-Regular", Helvetica;
+    --body-text-14-font-size: 14px;
+    --body-text-14-font-style: normal;
+    --body-text-14-font-weight: 400;
+    --body-text-14-letter-spacing: 0px;
+    --body-text-14-line-height: normal;
+    --body-text-18-font-family: "WorkSans-Regular", Helvetica;
+    --body-text-18-font-size: 18px;
+    --body-text-18-font-style: normal;
+    --body-text-18-font-weight: 400;
+    --body-text-18-letter-spacing: 0px;
+    --body-text-18-line-height: normal;
+    --grey-scale-000: rgba(255, 255, 255, 1);
+    --grey-scale-1000: rgba(0, 0, 0, 1);
+    --grey-scale-200: rgba(255, 255, 255, 0.5);
+    --greyscale-400: rgba(22, 22, 21, 0.5);
+    --h1-title-font-family: "Syne-ExtraBold", Helvetica;
+    --h1-title-font-size: 135px;
+    --h1-title-font-style: normal;
+    --h1-title-font-weight: 800;
+    --h1-title-letter-spacing: 0px;
+    --h1-title-line-height: 102.5999984741211px;
+    --h2-title-font-family: "Syne-SemiBold", Helvetica;
+    --h2-title-font-size: 90px;
+    --h2-title-font-style: normal;
+    --h2-title-font-weight: 600;
+    --h2-title-letter-spacing: 0px;
+    --h2-title-line-height: normal;
+    --pimary-colour: rgba(240, 126, 21, 1);
+    --subtitles-font-family: "Syne-SemiBold", Helvetica;
+    --subtitles-font-size: 26px;
+    --subtitles-font-style: normal;
+    --subtitles-font-weight: 600;
+    --subtitles-letter-spacing: 0px;
+    --subtitles-line-height: normal;
+  }
+  
